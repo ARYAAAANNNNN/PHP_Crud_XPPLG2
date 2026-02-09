@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Siakad | WebDec School </title>
+    <title>Aryandi | WebDec School </title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -167,15 +167,12 @@
 
                 
                     <!-- Page Heading -->
-                         <h1 class="h3 mb-2 text-gray-800">Form Tambah Data Siswa</h1>
+ <h1 class="h3 mb-2 text-gray-800">Form Tambah Data Siswa</h1>
  
     <form method="POST" action="tsiswa.php">
   <div class="row mb-3">
     <label for="inputPassword3" class="col-sm-2 col-form-label">NIS</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="nis" name="nis">
-    </div>
-    </div>
      <div class="row mb-3">
     <label for="inputPassword3" class="col-sm-2 col-form-label">Nama Siswa</label>
     <div class="col-sm-10">

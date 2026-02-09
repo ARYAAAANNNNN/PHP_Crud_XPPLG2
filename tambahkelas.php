@@ -8,9 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-
     
-    <title>Siakad | WebDec School </title>
+
+    <title>Aryandi | WebDec School </title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -178,7 +178,7 @@
                 <div class="container-fluid">
 
                     <!-- Page Heading -->
-                <h1 class="h3 mb-2 text-gray-800">Form Tambah Data Kelas</h1>
+                <h1 class="h3 mb-2 text-gray-800">Form Tambah Data Kela8s</h1>
 
 <form method="POST" action="tkelas.php">
   <div class="form-group row">

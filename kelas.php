@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Siakad | WebDec School </title>
+    <title>Aryandi | WebDec School</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -186,7 +186,6 @@
                                         </tr>
                                         <?php 
                                         include 'koneksi.php';
-                                        $no = 1;
                                         $data = mysqli_query($koneksi, "SELECT * FROM kelas");
                                         while ($d = mysqli_fetch_array($data)){
                                             ?>
